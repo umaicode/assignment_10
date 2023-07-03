@@ -1,0 +1,12 @@
+﻿  practice.cpp
+  template버젼과제_test.cpp
+  코드를 생성하고 있습니다...
+template버젼과제_test.obj : error LNK2005: "public: virtual bool __thiscall Employee::Equals(class Employee *)" (?Equals@Employee@@UAE_NPAV1@@Z)이(가) practice.obj에 이미 정의되어 있습니다.
+template버젼과제_test.obj : error LNK2005: "public: virtual bool __thiscall Person::Equals(class Person *)" (?Equals@Person@@UAE_NPAV1@@Z)이(가) practice.obj에 이미 정의되어 있습니다.
+template버젼과제_test.obj : error LNK2005: "public: virtual bool __thiscall WorkStudent::Equals(class WorkStudent *)" (?Equals@WorkStudent@@UAE_NPAV1@@Z)이(가) practice.obj에 이미 정의되어 있습니다.
+template버젼과제_test.obj : error LNK2005: "public: virtual void __thiscall Employee::Print(void)" (?Print@Employee@@UAEXXZ)이(가) practice.obj에 이미 정의되어 있습니다.
+template버젼과제_test.obj : error LNK2005: "public: void __thiscall Student::Print(void)" (?Print@Student@@QAEXXZ)이(가) practice.obj에 이미 정의되어 있습니다.
+template버젼과제_test.obj : error LNK2005: "public: void __thiscall WorkStudent::Print(void)" (?Print@WorkStudent@@QAEXXZ)이(가) practice.obj에 이미 정의되어 있습니다.
+template버젼과제_test.obj : error LNK2005: _main이(가) practice.obj에 이미 정의되어 있습니다.
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: _WinMain@16"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\apple\OneDrive - pusan.ac.kr\CPP\assignment_10\Debug\assignment_10.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
